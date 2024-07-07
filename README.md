@@ -40,3 +40,6 @@ If you encounter any issues or would like to report a bug, please use our [Issue
 ## License
 
 Nexcent is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+# note-app
+# Nexcent
+# Nexcent
